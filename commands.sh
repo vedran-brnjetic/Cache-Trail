@@ -120,3 +120,33 @@
   120  history 100 > commands.sh
   121  nano commands.sh 
   122  history 125 > commands.sh
+  123  nano commands.sh 
+  124  git add -A 
+  125  git commit -a -m"entire server history recorded"
+  126  git push
+  127  sudo nano /etc/httpd/conf.d/default-site.conf
+  128  git pull
+  129  node start
+  130  npm run
+  131  git pull
+  132  /usr/bin/node /home/croviking/proj/index.js 
+  133  cd /lib/systemd/system
+  134  ls
+  135  sudo nano carribean.service
+  136  sudo systemctl daemon-reload
+  137  sudo systemctl start caribbean
+  138  sudo systemctl start cartibbean
+  139  sudo systemctl start carribbean
+  140  sudo systemctl start carribean
+  141  cd ~
+  142  ls
+  143  cd proj/
+  144  ls
+  145  cd /lib/systemd/system
+  146* 
+  147  sudo nano carribean.service
+  148  sudo systemctl daemon-reload
+  149  sudo systemctl start carribean
+  150  sudo systemctl stop carribean
+  151  cd /home/croviking/proj/
+  152  history 250 > commands.sh 
