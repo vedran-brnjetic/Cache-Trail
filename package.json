@@ -1,0 +1,25 @@
+{
+  "name": "cache-trail",
+  "version": "1.0.0",
+  "description": "Metropolia Basics of web tech module group project, geo tag website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedran-brnjetic/Cache-Trail.git"
+  },
+  "keywords": [
+    "Metropolia",
+    "student",
+    "geo",
+    "tag"
+  ],
+  "author": "Daemons of the Caribbean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vedran-brnjetic/Cache-Trail/issues"
+  },
+  "homepage": "https://github.com/vedran-brnjetic/Cache-Trail#readme"
+}
