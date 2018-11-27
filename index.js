@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
   for (var k in env) {
-    res.write(k + ": " + env[k] + "\n");
+    res.write(k + ": " + "haha" + "\n");
   }
   res.end();
 });
