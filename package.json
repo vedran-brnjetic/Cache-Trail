@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/vedran-brnjetic/Cache-Trail/issues"
   },
-  "homepage": "https://github.com/vedran-brnjetic/Cache-Trail#readme"
+  "homepage": "https://github.com/vedran-brnjetic/Cache-Trail#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
